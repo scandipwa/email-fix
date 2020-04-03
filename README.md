@@ -1,0 +1,1 @@
+- Added the fix provided by Magento for email sending logic

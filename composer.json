@@ -1,0 +1,22 @@
+{
+  "name": "scandipwa/email-fix",
+  "description": "Email fix for ScandiPWA",
+  "type": "magento2-module",
+  "require": {
+    "magento/magento2-base": "^2.3.3"
+  },
+  "autoload": {
+    "files": [
+      "src/registration.php"
+    ],
+    "psr-4": {
+      "ScandiPWA\\SampleData\\": "src/"
+    }
+  },
+  "support": {
+    "email": "info@scandiweb.com"
+  },
+  "licence": [
+    "OSL-3.0"
+  ]
+}
