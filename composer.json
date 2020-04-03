@@ -3,14 +3,14 @@
   "description": "Email fix for ScandiPWA",
   "type": "magento2-module",
   "require": {
-    "magento/magento2-base": "^2.3.3"
+    "magento/magento2-base": "<2.3.5"
   },
   "autoload": {
     "files": [
       "src/registration.php"
     ],
     "psr-4": {
-      "ScandiPWA\\SampleData\\": "src/"
+      "ScandiPWA\\EmailFix\\": "src/"
     }
   },
   "support": {
