@@ -1,13 +1,8 @@
 <?php
 /**
- * ScandiPWA_EmailFix
- *
- * @category    Scandiweb
- * @package     ScandiPWA_EmailFix
- * @author      Vadims Petrovs <info@scandiweb.com>
- * @copyright   Copyright (c) 2020 Scandiweb, Ltd (https://scandiweb.com)
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
  */
-
 namespace ScandiPWA\EmailFix\Mail\Test\Unit;
 
 /**
